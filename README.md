@@ -8,6 +8,8 @@ This is a **CrewAI Generator** built using **Streamlit** that allows users to ge
   Your browser does not support the video tag.
 </video>
 
+[![Watch the demo](https://github.com/aakriti1318/Crew-Agent-Generator/blob/main/agent.png)](https://github.com/aakriti1318/Crew-Agent-Generator/issues/1#issue-2870789620)
+
 
 ## Features
 - Accepts simple English input to define AI agents and tasks

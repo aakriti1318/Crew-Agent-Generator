@@ -55,7 +55,7 @@ This will launch the application in your default web browser.
 2. Enter a prompt describing your AI agent requirements.
 3. Click on **Generate Crew** to create a structured AI workflow.
 4. View the generated code and copy it for your project.
-
+ 
 ## Contributing
-Feel free to fork the repository, submit pull requests, and suggest improvements!
+Feel free to fork the repository, submit pull requests, and suggest improvements on [LinkedIn](https://www.linkedin.com/in/aakritiaggarwal13/) ❤️
 
